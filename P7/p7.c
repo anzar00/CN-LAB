@@ -1,3 +1,5 @@
+// Write a program for Distance Vector Algorithm to find suitable path for transmission.
+
 #include <stdio.h>
 #include <string.h>
 int main()

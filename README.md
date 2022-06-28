@@ -9,7 +9,7 @@
     <a href="#4"><li></a>
     <a href="#5"><li></a>
     <a href="#6"><li></a>
-    <a href="#7"><li></a>
+    <a href="#7"><li>Distance Vector Algorithm</a>
     <a href="#8"><li></a>
     <a href="#9"><li></a>
     <a href="#10"><li></a>
@@ -19,8 +19,15 @@
 
 <hr>
 
-<h2 id="1">1</h2>
-<p>Explaination</p>
+<h2 id="1">CRC</h2>
+<p>
+    - Cyclic Redundancy Check <br>
+    - Polynomial Code <br>
+    - Message converted to a binary number <br>
+    - Both sender and receiver divide the message by gp. <br>
+    - Remainder is added to the sent message. <br>
+    - Thus, 0 remainder means no error. <br>
+</p>
 <hr>
 
 <h2 id="2">2</h2>
@@ -43,8 +50,12 @@
 <p>Explaination</p>
 <hr>
 
-<h2 id="7">7</h2>
-<p>Explaination</p>
+<h2 id="7">Distance Vector Algorithm</h2>
+<p>
+    - Algorithm used for routing. <br>
+    - Routing is a process of finding the best possible path. <br>
+    - Metric used is distance. <br>
+</p>
 <hr>
 
 <h2 id="8">8</h2>
