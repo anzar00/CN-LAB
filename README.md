@@ -10,7 +10,7 @@
     <a href="#5"><li></a>
     <a href="#6"><li></a>
     <a href="#7"><li>Distance Vector Algorithm</a>
-    <a href="#8"><li></a>
+    <a href="#8"><li>Link State Algorithm</a>
     <a href="#9"><li></a>
     <a href="#10"><li></a>
     <a href="#11"><li></a>
@@ -58,8 +58,11 @@
 </p>
 <hr>
 
-<h2 id="8">8</h2>
-<p>Explaination</p>
+<h2 id="8">Link State Algorithm</h2>
+<p>
+    - Uses greedy approach . <br>
+    - Shortest path from source to all other nodes.
+</p>
 <hr>
 
 <h2 id="9">9</h2>

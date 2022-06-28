@@ -6,14 +6,17 @@ int main()
 {
     int copy[20][20], dist[20][20], via[20][20];
     int n = 0, i = 0, j = 0, k = 0, count = 0;
-    system("clear");
+    
     printf("Enter The Number Of Nodes\n");
     scanf("%d", &n);
+
     printf("Enter The Cost Matrix\n");
+
     for (i = 1; i <= n; i++)
         for (j = 1; j <= n; j++)
         {
             scanf("%d", &dist[i][j]);
+
             dist[i][i] = 0;
             copy[i][j] = dist[i][j];
             via[i][j] = j;
@@ -31,6 +34,7 @@ int main()
                         count++;
                     }
     } while (count != 0);
+    
     for (i = 1; i <= n; i++)
     {
         printf("Shortest path from Router %d \n", i);
