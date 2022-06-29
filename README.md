@@ -11,8 +11,8 @@
     <a href="#6"><li></a>
     <a href="#7"><li>Distance Vector Algorithm</a>
     <a href="#8"><li>Link State Algorithm</a>
-    <a href="#9"><li></a>
-    <a href="#10"><li></a>
+    <a href="#9"><li>RSA Algorithm</a>
+    <a href="#10"><li>Diffie Hellman</a>
     <a href="#11"><li></a>
     <a href="#12"><li></a>
 </ol>
@@ -65,16 +65,22 @@
 </p>
 <hr>
 
-<h2 id="9">9</h2>
-<p>Explaination</p>
+<h2 id="9">RSA Algorithm</h2>
+<p>
+    - By Rivest, Shamir, Adleman <br>
+    - Public-key cryptography scheme <br>
+    - Uses prime numbers.
+</p>
 <hr>
 
-<h2 id="10">10</h2>
-<p>Explaination</p>
+<h2 id="10">Diffie Hellman</h2>
+<p>- Public-key cryptography scheme <br></p>
 <hr>
 
 <h2 id="11">11</h2>
-<p>Explaination</p>
+<p>
+    
+</p>
 <hr>
 
 <h2 id="12">12</h2>
